@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "sample_hz": 30,
+  "robots": 4,
+  "robot_scene_states_checked": 10729,
+  "max_penetration_m": 5.703794326943711e-08,
+  "representation": "4 FR3 collision meshes, vacuum cylinders, fixed equipment boxes, 800 animated brick boxes",
+  "moving_machine_parts_kept_out_of_fr3_workspace": 142,
+  "nearest_moving_part_to_fr3_reach_m": 0.12,
+  "intentional_exclusion": "bolted robot base mounting contact",
+  "limitations": "kinematic sampled geometry audit; not contact dynamics or machinery certification"
+}

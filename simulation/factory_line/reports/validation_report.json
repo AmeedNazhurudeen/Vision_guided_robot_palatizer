@@ -1,0 +1,31 @@
+{
+  "passed": true,
+  "audit_hz": 30,
+  "brick_positions_checked": 11616328,
+  "supported_surface_samples": 2843908,
+  "crane_and_gantry_carry_samples": 464671,
+  "fr3_reject_picks": 87,
+  "separator_pushes": 20,
+  "separator_paddle_samples": 857,
+  "layers_in": 20,
+  "complete_layers_palletised": 17,
+  "pallets": [
+    {
+      "pallet": 0,
+      "layers": 14,
+      "bricks": 560,
+      "shipped_seconds": 445.25178942642094
+    },
+    {
+      "pallet": 1,
+      "layers": 3,
+      "bricks": 120,
+      "shipped_seconds": null
+    }
+  ],
+  "fixed_obstacles_checked": 231,
+  "max_fr3_joint_velocity_fraction": 0.8982241428943749,
+  "fixed_equipment_pairs_checked": 23653,
+  "moving_machine_part_samples": 364230,
+  "brick_overlap_tolerance_m": 0.0005
+}
